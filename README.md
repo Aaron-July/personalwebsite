@@ -1,2 +1,2 @@
 # personalwebsite
-https://aaronjulya.github.io/personalwebsite/
+https://aaron-july.github.io/personalwebsite/
