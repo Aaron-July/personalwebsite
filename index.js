@@ -33,14 +33,14 @@ function showSlides() {
 //         }
 //         if (currentActive != currentSlide) {
 //             testimContent[currentActive].classList.add("inactive");
-        }
-        testimContent[slide].classList.add("active");
-        testimDots[slide].classList.add("active");
+//         }
+//         testimContent[slide].classList.add("active");
+//         testimDots[slide].classList.add("active");
 
-        currentActive = currentSlide;
+//         currentActive = currentSlide;
 
-        clearTimeout(testimTimer);
-        testimTimer = setTimeout(function () {
-            playSlide(currentSlide += 1);
-        }, testimSpeed)
-    }
+//         clearTimeout(testimTimer);
+//         testimTimer = setTimeout(function () {
+//             playSlide(currentSlide += 1);
+//         }, testimSpeed)
+//     }
