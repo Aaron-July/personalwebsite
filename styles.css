@@ -103,7 +103,9 @@ line-height: 2;
 }
 
 .profile-img {
-  width: 200px;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
 }
 
 a:link {
